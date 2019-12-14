@@ -55,6 +55,6 @@ public class Main {
             }
         }
 
-        return  fuelRequirements;
+        return fuelRequirements;
     }
 }
